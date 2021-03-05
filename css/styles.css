@@ -1,0 +1,113 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'akaya telivigala', cursive;
+}
+
+h1 {
+  font-size: 562.5%;
+  margin-top: 50px;
+  margin-bottom: 10px;
+  font-family: 'stick', sans-serif;
+  color: #66BFBF;
+
+}
+
+h2 {
+  font-family: 'open sans condensed', sans-serif;
+  font-size: 2.5rem;
+  margin-top: 10px;
+  color: #66BFBF;
+}
+
+h3 {
+  font-family: 'source code pro', monospace;
+  color: #11999E;
+}
+
+hr {
+  border-top: 5px dotted purple;
+  margin-left: 40%;
+  margin-right:40%;
+}
+
+/*****************classes**************/
+.top-container {
+  background-color: #EAF6F6;
+  padding-top: 100px;
+}
+
+.middle-container {
+
+}
+
+.descripcion {
+  color: #40514E;
+}
+
+.skills {
+  color: #66BFBF;
+}
+
+.prueba2 {
+  text-align: right;
+  color: #11999E;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  margin-top: 50px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.bottom-cloud {
+  position: absolute;
+}
+
+.top-cloud {
+  position: relative;
+  margin-left: 400px;
+}
+
+.footer-link {
+  color: #11999E;
+  
+}
+
+.progra {
+  font-weight: normal;
+}
+
+.skill-row {
+  width: 50%;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  text-align: left;
+  line-height: 2;
+}
+
+.kirby {
+  width: 25%;
+  float: left;
+  margin-right: 20px;
+}
+
+.palpatine {
+  width: 25%;
+  float: right;
+  margin-left: 20px;
+}
+
+.prueba {
+  text-align: right;
+}
+
+.pie-pagina {
+  color: #EAF6F6;
+}
